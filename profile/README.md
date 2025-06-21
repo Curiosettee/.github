@@ -1,4 +1,4 @@
-# **Curiosettee**  
+![Curiosettee Logo](./assets/curiosettee-logo.png)
 
 *Where Curiosity Fuels Code, Stories & Systems*  
 
@@ -14,7 +14,7 @@
 
 ---
 
-![Curiosettee Logo](./assets/curiosettee-logo.png)  
+  
 
 
 ## 🌟 About Curiosettee
