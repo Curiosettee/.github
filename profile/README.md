@@ -2,15 +2,7 @@
 
 *Where Curiosity Fuels Code, Stories & Systems*  
 
-[![Website](https://img.shields.io/badge/Website-curiosettee.com-blue)](https://curiosettee.com)
-
-[![GitHub Org](https://img.shields.io/badge/GitHub-Organization-181717?logo=github)](https://github.com/Curiosettee)  
-
-[![Learning in Public](https://img.shields.io/badge/LIP-Learning%20in%20Public-blue)](https://github.com/reynaheleyna/learn_in_public.git)  
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20LIP%20%26%20Ship-7289DA?logo=discord)](https://discord.gg/tcKYNRNk)
-  
-[![Threads](https://img.shields.io/badge/Threads-@curiosettee-209CEE)](https://www.threads.net/@curiosettee)
+[![Website](https://img.shields.io/badge/Website-curiosettee.com-blue)](https://curiosettee.com) [![GitHub Org](https://img.shields.io/badge/GitHub-Organization-181717?logo=github)](https://github.com/Curiosettee) [![Learning in Public](https://img.shields.io/badge/LIP-Learning%20in%20Public-blue)](https://github.com/reynaheleyna/learn_in_public.git) [![Discord](https://img.shields.io/badge/Discord-Join%20LIP%20%26%20Ship-7289DA?logo=discord)](https://discord.gg/tcKYNRNk)[![Threads](https://img.shields.io/badge/Threads-@curiosettee-209CEE)](https://www.threads.net/@curiosettee)
 
 ---
 
