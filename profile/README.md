@@ -1,4 +1,4 @@
-![Curiosettee Logo](./assets/curiosettee-logo.png)
+![Curiosettee Logo](./assets/tm_rec.png)
 
 *Where Curiosity Fuels Code, Stories & Systems*  
 
